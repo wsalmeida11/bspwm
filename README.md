@@ -1,6 +1,7 @@
 # BSPWM (Gerenciador de janelas)
 ```
 Nota Importantes:
+- Esse passo a passo aborda 1 (instalação) 2 personalização através dos arquivos de configuração
 - Procedimentos deve ser feito após uma instalação mínima do sistema.
 - Escolha entre instalação e configuração não execute os dois juntos.
 ```
