@@ -1,3 +1,5 @@
+<img src = "screenshots/captura_1.png">
+
 # bspwm
 Intalação e configuração do gerenciador de janelas BSPWM.
 
