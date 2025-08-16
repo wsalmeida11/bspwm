@@ -1,9 +1,8 @@
 # BSPWM (Gerenciador de janelas)
 ```
 Notas Importantes:
-- Esse passo a passo aborda 1 (instalação) 2 (personalização) através dos arquivos de configuração
+- Passo a Passo para instalação e configuração do BSPWM 
 - Procedimentos deve ser feito após uma instalação mínima do sistema.
-- Escolha entre instalação e configuração não execute os dois juntos.
 ```
 <img src = "screenshots/captura_1.png">
 
@@ -22,7 +21,7 @@ sed -i 's/urxvt/xfce4-terminal/g' ~/.config/sxhkd/sxhkdrc
 ```
 ```
 Nota:
-- Com a instalação acima é possível acessar desktop (mínimo) com startx.                                                  
+- Com a instalação acima ja é possível acessar desktop (mínimo) com startx.                                                  
 ```
 ### 1.3 - Polybar (Barra de status)
 ```
@@ -33,3 +32,21 @@ cp /usr/share/doc/polybar/examples/config.ini ~/.config/polybar
 echo "polybar -c $HOME/.config/polybar/config.ini &" >> ~/.config/bspwm/bspwmrc
 echo 'xsetroot -cursor_name left_ptr &' >> ~/.config/bspwm/bspwmrc
 ```
+
+### 1.4 - Feh (gerenciador de imagens)
+```
+sudo apt install feh git
+cd ; git clone https://github.com/wsalmeida11/bspwm
+cp -r $HOME/bspwm/wallpaper $HOME/Imagens
+touch ~/.fehbg
+chmod +x ~/.fehbg
+echo '#!/bin/sh' > ~/.fehbg
+echo "feh --no-fehbg --bg-scale '$HOME/Imagens/wallpaper/bspwm.jpg'" >> ~/.fehbg
+echo -e '\n# Iniciar com sistema' >> ~/.config/bspwm/bspwmrc
+echo "exec $HOME/.fehbg" >> ~/.config/bspwm/bspwmrc
+echo 'xsetroot -cursor_name left_ptr &' >> ~/.config/bspwm/bspwmrc
+```
+
+
+
+
