@@ -1,11 +1,8 @@
 # BSPWM (Gerenciador de janelas)
 ```
 Notas Importantes:
-- Passo a Passo para instalação e configuração do BSPWM
-- Passo 1 Instalação 
-- Passo 2 configuração através dotfile
+- Passo a Passo para instalação e configuração do BSPWM 
 - Procedimentos deve ser feito após uma instalação mínima do sistema.
-- Não execute a instalação junto com a configuração
 ```
 <img src = "screenshots/captura_1.png">
 
@@ -13,7 +10,7 @@ Notas Importantes:
 
 ### 1.1 - Base
 ```
-sudo apt install xorg xinit bspwm xfce4-terminal
+sudo apt install xorg xinit bspwm xfce4-terminal vim
 ```
 ### 1.2 - Configurações iniciais
 ```
