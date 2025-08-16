@@ -10,7 +10,7 @@ Notas Importantes:
 
 ### 1.1 - Base
 ```
-sudo apt install xorg xinit bspwm xfce4-terminal
+sudo apt install xorg xinit bspwm xfce4-terminal vim
 ```
 ### 1.2 - Configurações iniciais
 ```
