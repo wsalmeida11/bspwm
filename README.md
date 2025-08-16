@@ -24,7 +24,8 @@ sed -i 's/urxvt/xfce4-terminal/g' ~/.config/sxhkd/sxhkdrc
 ```
 ```
 Nota:
-- Com a instalação acima ja é possível acessar desktop (mínimo) com startx.                                                  
+- Com a instalação acima ja é possível acessar desktop (mínimo) com startx.
+- Você pode optar por continuar os passos de instalação ou pular para configuração através do dotfile.                                        
 ```
 ### 1.3 - Polybar (Barra de status)
 ```
