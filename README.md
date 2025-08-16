@@ -1,9 +1,9 @@
 # BSPWM (Gerenciador de janelas)
 <img src = "screenshots/captura_1.png">
 
-## 1 - instalação manual 
+## 1 - instalação
 
-### 1.1 - Base do gerenciador
+### 1.1 - Base
 ```
 sudo apt install xorg xinit bspwm xfce4-terminal
 ```
