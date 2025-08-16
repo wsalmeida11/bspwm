@@ -1,4 +1,8 @@
 # BSPWM (Gerenciador de janelas)
+```
+- Procedimentos deve ser feito após uma instalação mínima do sistema.
+- Escolha entre instalação e configuração não execute os dois juntos.
+```
 <img src = "screenshots/captura_1.png">
 
 ## 1 - instalação
