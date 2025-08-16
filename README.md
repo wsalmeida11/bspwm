@@ -20,3 +20,7 @@ cp /usr/share/doc/bspwm/examples/bspwmrc ~/.config/bspwm
 cp /usr/share/doc/bspwm/examples/sxhkdrc ~/.config/sxhkd/
 sed -i 's/urxvt/xfce4-terminal/g' ~/.config/sxhkd/sxhkdrc
 ```
+```
+Nota:
+- Com a instalação acima concluidas já é possível acessar sistema com startx.
+```
