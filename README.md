@@ -1,8 +1,11 @@
 # BSPWM (Gerenciador de janelas)
 ```
 Notas Importantes:
-- Passo a Passo para instalação e configuração do BSPWM 
+- Passo a Passo para instalação e configuração do BSPWM
+- Passo 1 Instalação 
+- Passo 2 configuração através dotfile
 - Procedimentos deve ser feito após uma instalação mínima do sistema.
+- Não execute a instalação junto com a configuração
 ```
 <img src = "screenshots/captura_1.png">
 
