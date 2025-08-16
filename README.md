@@ -1,5 +1,6 @@
 # BSPWM (Gerenciador de janelas)
 ```
+Nota Importantes:
 - Procedimentos deve ser feito após uma instalação mínima do sistema.
 - Escolha entre instalação e configuração não execute os dois juntos.
 ```
