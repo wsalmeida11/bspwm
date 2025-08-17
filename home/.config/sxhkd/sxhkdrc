@@ -6,6 +6,10 @@
 super + Return
 	xfce4-terminal
 
+# program launcher
+super + @space
+        rofi -show drun -show-icons
+
 # power menu
 ctrl + alt + Delete
 	rofi -show power-menu -modi power-menu:~/.config/power/rofi-power-menu
