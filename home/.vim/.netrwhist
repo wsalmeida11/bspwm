@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/wellington/.config'
+let g:netrw_dirhist_7='/home/wellington/.config/gtk-4.0'
+let g:netrw_dirhist_6='/home/wellington/.themes/WhiteSur-Dark-solid/gnome-shell'
+let g:netrw_dirhist_5='/media/externo/home/wellington/.config/polybar'
+let g:netrw_dirhist_4='/home/wellington/.config/polybar'
+let g:netrw_dirhist_3='/home/wellington/Área de trabalho'
+let g:netrw_dirhist_2='/home/wellington/.config/sxhkd'
+let g:netrw_dirhist_1='/home/wellington/Área de trabalho'
+let g:netrw_dirhist_0='/home/wellington'
+let g:netrw_dirhist_9='/home/wellington/Área de trabalho'
