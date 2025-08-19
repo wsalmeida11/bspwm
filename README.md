@@ -33,5 +33,5 @@ Observação:
 ### 2.1 - Instalando aplicativos adicionais
 ```
 sudo apt install git vim rofi polybar
-cd ; git clone  https://github.com/wsalmeida11/bspwm/tree/main
+cd ; git clone https://github.com/wsalmeida11/bspwm
 
