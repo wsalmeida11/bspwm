@@ -6,7 +6,7 @@ Notas Importantes:
 ```
 <img src = "screenshots/captura_1.png">
 
-## 1 - instalação (Gerenciador + Ambiente de trabalho mínimo)
+## > 1 - instalação (Gerenciador + Ambiente de trabalho mínimo)
 
 ### 1.1 - Base
 ```
