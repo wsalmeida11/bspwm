@@ -26,6 +26,6 @@ Observação:
 
 ## 2 - Configuração através do home
 ```
-Baixe o orquivo home do github e extraia para home do susuário
+Baixar o orquivo home do github e extrair para home do usuário.
 ```
 ### 2.1 - Instalando programas adicionais
