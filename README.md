@@ -29,3 +29,5 @@ Observação:
 Baixar o orquivo home do github e extrair para home do usuário.
 ```
 ### 2.1 - Instalando programas adicionais
+```
+sudo apt install 
