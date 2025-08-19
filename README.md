@@ -18,16 +18,18 @@ mkdir -p ~/.config/{bspwm,sxhkd}
 cp /usr/share/doc/bspwm/examples/bspwmrc ~/.config/bspwm
 cp /usr/share/doc/bspwm/examples/sxhkdrc ~/.config/sxhkd/
 sed -i 's/urxvt/xfce4-terminal/g' ~/.config/sxhkd/sxhkdrc
+
 ```
 ```
 Observação:
-- Aprtir desse ponto o sistema pode ser iniciado com startx 
+- Aprtir desse ponto o sistema pode ser iniciado com startx
 ```
 
 ## 2 - Configuração através do home
 ```
-Baixar o orquivo home do github e extrair para home do usuário.
+- Instalar apliactivos adicionais
+- Baixar o orquivo home do github e extrair para home do usuário.
 ```
-### 2.1 - Instalando programas adicionais
+### 2.1 - Instalando aplicativos adicionais
 ```
-sudo apt install 
+sudo apt install git vim rofi polybar 
