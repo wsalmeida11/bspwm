@@ -19,3 +19,13 @@ cp /usr/share/doc/bspwm/examples/bspwmrc ~/.config/bspwm
 cp /usr/share/doc/bspwm/examples/sxhkdrc ~/.config/sxhkd/
 sed -i 's/urxvt/xfce4-terminal/g' ~/.config/sxhkd/sxhkdrc
 ```
+```
+Observação:
+- Aprtir desse ponto o sistema pode ser iniciado com startx 
+```
+
+## 2 - Configuração através do home
+```
+Baixe o orquivo home do github e extraia para home do susuário
+```
+### 2.1 - Instalando programas adicionais
