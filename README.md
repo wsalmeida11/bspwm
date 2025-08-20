@@ -15,3 +15,7 @@ sudo apt install xorg xinit bspwm xfce4-terminal git vim rofi polybar pulseaudio
 cd ; git clone https://github.com/wsalmeida11/bspwm
 cp -r ~/bspwm/home/.* ~/ ; cp -r ~/bspwm/home/* ~/
 ```
+### 3 - Instalação e configuração (script)
+```
+... Script em construção
+```
