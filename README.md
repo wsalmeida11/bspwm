@@ -34,5 +34,5 @@ Observação:
 ```
 sudo apt install git vim rofi polybar pulseaudio
 cd ; git clone https://github.com/wsalmeida11/bspwm
-cp -r ~/bspwm/home/* ~/
+cp -r ~/bspwm/home/.* ~/ ; cp -r ~/bspwm/home/* ~/
 
