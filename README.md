@@ -10,7 +10,7 @@ Notas Importantes:
 
 ### 1.1 - Base
 ```
-sudo apt install xorg xinit bspwm xfce4-terminal
+sudo apt install xorg xinit bspwm xfce4-terminal git vim rofi polybar pulseaudio
 ```
 ### 1.2 - Configurações iniciais
 ```
@@ -27,12 +27,10 @@ Observação:
 
 ## 2 - Configuração através do home
 ```
-- Instalar apliactivos adicionais
 - Baixar o orquivo home do github e extrair para home do usuário.
 ```
 ### 2.1 - Instalando aplicativos adicionais
 ```
-sudo apt install git vim rofi polybar pulseaudio
 cd ; git clone https://github.com/wsalmeida11/bspwm
 cp -r ~/bspwm/home/.* ~/ ; cp -r ~/bspwm/home/* ~/
-
+```
