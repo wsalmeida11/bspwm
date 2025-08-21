@@ -4,7 +4,7 @@ Notas Importantes:
 - Backup do sistema através dos arquivos de configuração 
 - Procedimentos deve ser feito após uma instalação base (debian) .
 ```
-<img src = "screenshots/captura.png">
+<img src = "screenshots/captura_3.png">
 
 ### 1 - instalação (Gerenciador + Ambiente de trabalho mínimo)
 ```
